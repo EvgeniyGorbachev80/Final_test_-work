@@ -22,4 +22,4 @@
 
 
 # *Блок-схема алгоритма:"*
-![diagram](Block_%20diagram.png)
+![diagramma](Scheme.png)
